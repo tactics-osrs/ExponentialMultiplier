@@ -1,6 +1,6 @@
 # Exponential Multiplier
 
-This is a simple batch script that performs exponential multiplication of the number 2, up to a maximum of 5 times. 
+This is a simple batch script that performs exponential multiplication of the number 2, up to a maximum of 5 times. (Due to CMD 32-bit limit)
 
 ## Features
 - The script prompts the user to input the number of times they want to perform the exponential multiplication.
