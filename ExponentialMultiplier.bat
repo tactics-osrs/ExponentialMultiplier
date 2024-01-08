@@ -1,5 +1,5 @@
 @echo off
-title Exponential Multiplier By ♠Tactics♠
+title Exponential Multiplier By #Tactics#
 :start
 echo --------------------------------------------------------------
 echo ^|How many times do you want to exponentialy multiply? (2-5)^| 
@@ -29,7 +29,7 @@ GOTO a
 echo I successfully Exponentialy Mulitplied %killnum% times and the result is %num% 
 pause
 goto start
-echo ♠Tactics♠
+echo #Tactics#
 exit
 :explain
 echo Cmd can only do 32bit math
